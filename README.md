@@ -1,1 +1,2 @@
-# chocolate-pizza.
+# chocolate-pizza
+Design comp (Chocolate Pizza)
